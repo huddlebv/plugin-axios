@@ -1,6 +1,5 @@
 {
-  "private": true,
-  "name": "huddlebv/plugin-axios",
+  "name": "huddlebv-plugin-axios",
   "version": "0.9.1",
   "description": "Fork of Vuex ORM plugin for adding smooth integration with axios. Fork is needed because the highest version we can use is 0.9.1 but that version was dependent on a axios version with multiple vulnerabilities.",
   "main": "dist/vuex-orm-axios.common.js",
